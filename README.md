@@ -8,7 +8,7 @@ guilherme.vallejo@escola.pr.gov.br
 
 @Vallejo11
 
-![](https://media1.giphy.com/media/3q8SASo09s9G0/giphy.webp?cid=ecf05e47wye9lj1nhr6iyegcuj90llg8r4knrjdij00seab0&ep=v1_gifs_related&rid=giphy.webp&ct=g)
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1qMWwxeWNrdzNraWtybDhpNzV2dXV2MzJvMmR6aXZ6NHViZWlmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CGXnGb7zpsvXD2uwvd/giphy.webp)
 
 <!--
 **Vallejo11/Vallejo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
