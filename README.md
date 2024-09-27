@@ -1,4 +1,14 @@
-## Hi there 👋
+Meu nome é Guilherme Vallejo
+
+Estou estudando no colegio estadual do parana
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+guilherme.vallejo@escola.pr.gov.br
+
+@Vallejo11
+
+![](https://media1.giphy.com/media/3q8SASo09s9G0/giphy.webp?cid=ecf05e47wye9lj1nhr6iyegcuj90llg8r4knrjdij00seab0&ep=v1_gifs_related&rid=giphy.webp&ct=g)
 
 <!--
 **Vallejo11/Vallejo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
